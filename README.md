@@ -1,1 +1,1 @@
-# vuejs-practice
+Vue.js projects 🧑‍🔧
